@@ -2,8 +2,8 @@
 
 CakeFace is a gaming community formed in 2014 that was mainly focused on a Minecraft server. The primarily factions-based server ran on-and-off until it shut down in 2017. 
 
-![screenshots/dp.png]
-![screenshots/cf.png]
+![drop party](screenshots/dp.png)
+![castle](screenshots/cf.png)
 
 # CakeFace Now
 
