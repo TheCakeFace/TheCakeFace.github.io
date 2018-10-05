@@ -1,6 +1,13 @@
-# CakeFace
+# CakeFace Minecraft
 
-CakeFace is a gaming community formed in 2014 that was mainly focused on a Minecraft server. The primarily factions-based server ran on-and-off until it shut down in 2017. We still have a [Discord](https://discord.gg/Z4aKfxR) chat going if you want to hang out, though.
+CakeFace is a gaming community formed in 2014 that was mainly focused on a Minecraft server. The primarily factions-based server ran on-and-off until it shut down in 2017. 
+
+![screenshots/dp.png]
+![screenshots/cf.png]
+
+# CakeFace Now
+
+While the original server is down, we still have a [Discord](https://discord.gg/Z4aKfxR) chat going if you want to hang out.
 
 ## FAQ
 
